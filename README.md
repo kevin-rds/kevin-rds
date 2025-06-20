@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**kevin-rds/kevin-rds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there! I'm Kevin Nunes
 
-Here are some ideas to get you started:
+🎓 **Information Systems student at the University of São Paulo**  
+🤖 **Certified Mechatronics Technician (Duale Ausbildung – GROB)**  
+💡 **Interests:** C and Java programming, data structures, PLCs, and embedded systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+- Algorithms and Data Structures (C)  
+- Object-Oriented Programming (Java)  
+- Computer Architecture and Organization  
+- Industrial PLC programming using Structured Text (ST)  
+- Core concepts of Operating Systems, Networks, and Databases  
+
+---
+
+## 📫 Contact
+
+- Email: [kevinrn04@gmail.com](mailto:kevinrn04@gmail.com)  
+- LinkedIn: [linkedin.com/in/kevin-nunes-8b213b230](https://www.linkedin.com/in/kevin-nunes-8b213b230/)
+
+---
+
+## ✨ What You'll Find Here
+
+Repositories featuring personal projects, academic assignments, and technical experiments related to programming, automation, and systems development.
+
+Thanks for stopping by! 🚀
