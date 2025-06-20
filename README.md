@@ -1,9 +1,9 @@
 <div align="center">
 
-# 👋 Hi there! I'm Kevin Nunes
+# 👋 Hi there! I'm Kevin
 
 🎓 **Information Systems student at the University of São Paulo**  
-🤖 **Certified Mechatronics Technician (Duale Ausbildung – GROB)**  
+🤖 **Mechatronics Technician trainee at GROB (Duale Ausbildung – IHK)**  
 💡 **Interests:** C and Java programming, data structures, PLCs, and embedded systems  
 
 </div>
